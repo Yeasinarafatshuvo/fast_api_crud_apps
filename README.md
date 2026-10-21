@@ -73,7 +73,7 @@ The application separates responsibilities into different layers:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <git@github.com:Yeasinarafatshuvo/fast_api_crud_apps.git>
 cd fastapi_learning
 ```
 
